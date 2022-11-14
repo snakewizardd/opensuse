@@ -1,4 +1,4 @@
-ianzypper install docker docker-compose docker-compose-switch
+sudo zypper install docker docker-compose docker-compose-switch
 
 sudo systemctl enable docker
 

@@ -10,7 +10,7 @@ docker version
 
 #####
 
-ssh-keygen -t ed25519 -C "danielfarin@icloud.com"
+ssh-keygen -t ed25519 -C "email"
 
 
 #####
